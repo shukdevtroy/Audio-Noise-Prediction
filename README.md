@@ -135,7 +135,7 @@ For any questions or issues, please contact:
 
 ## Reference
 
-[Click to here to access the Github Profile](https://github.com/shukdevtroy/Audio-Noise-Generator/)
+[Click to here to access the Audio Noise Generator APP](https://github.com/shukdevtroy/Audio-Noise-Generator/)
 
 ---
 
