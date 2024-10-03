@@ -49,13 +49,13 @@ Data Directory/
 │   └── ...
 │
 ├── gaussian_noise/
-│   ├── audio_file_1.wav
-│   ├── audio_file_2.wav
+│   ├── noisy_audio_gaussian_audio_file_1.wav
+│   ├── noisy_audio_gaussian_audio_file_2.wav
 │   └── ...
 │
 └── impulse_noise/
-    ├── audio_file_1.wav
-    ├── audio_file_2.wav
+    ├── noisy_audio_impulse_audio_file_1.wav
+    ├── noisy_audio_impulse_audio_file_2.wav
     └── ...
 ```
 
