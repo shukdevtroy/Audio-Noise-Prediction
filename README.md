@@ -61,6 +61,8 @@ Data Directory/
 
 Each subfolder contains `.wav` files corresponding to its label.
 
+![Example Image](https://github.com/shukdevtroy/Audio-Noise-Prediction/blob/main/images/Capture.PNG)
+
 ## Installation
 
 Clone the repository:
