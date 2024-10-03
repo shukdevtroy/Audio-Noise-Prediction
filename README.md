@@ -66,8 +66,8 @@ Each subfolder contains `.wav` files corresponding to its label.
 Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/audio_classification.git
-cd audio_classification
+git clone https://github.com/shukdevtroy/Audio-Noise-Prediction.git
+cd Audio-Noise-Prediction
 ```
 
 ## Usage
